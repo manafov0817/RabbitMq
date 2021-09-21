@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = RabbitMQ.Consumer
+build_property.ProjectDir = D:\Programming\ATL\Learn\Message Borker\RabbitMQ.Consumer\RabbitMQ.Consumer\
